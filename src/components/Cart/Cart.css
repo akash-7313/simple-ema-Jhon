@@ -1,0 +1,18 @@
+.cart{
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+}
+
+.cart-info{
+    text-align: left;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.review-btn{
+    width: 100%;
+}
+.total{
+    color: #141401be;
+}
